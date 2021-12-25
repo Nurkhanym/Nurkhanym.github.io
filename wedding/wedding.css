@@ -29,7 +29,7 @@ body{
 }
 .logoS img{
   width: 200px;
-  margin-left: 500px;
+  margin-left: 800px;
 }
 .pp1{
   position: absolute;
@@ -415,6 +415,10 @@ filter: blur(100px);
   border-bottom: 5px solid rgba(255, 255, 0, 0.7);
 
  
+}
+	 .logoS img{
+  width: 200px;
+  margin-left: 400px;
 }
 .third4 h1{
   font-size: 26px;
